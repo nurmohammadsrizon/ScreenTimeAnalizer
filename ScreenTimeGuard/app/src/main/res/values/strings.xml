@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen Time Guard</string>
+    <string name="accessibility_service_description">Detects which app is in the foreground so Screen Time Guard can enforce your daily limits.</string>
+</resources>
